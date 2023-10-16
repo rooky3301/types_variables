@@ -14,4 +14,4 @@ maior flexibilidade ao desenvolvedor na hora de sua escolha.
 
 > A palavra tipar que uso no texto acima refere-se a declarar um tipo para variável e de acordo com o tipo, ela pode utilizar mais ou menos memória e aceitar somente números ou textos, ou os dois juntos, dependendo da sua linguagem de programação.
 
---- 
+---- 
