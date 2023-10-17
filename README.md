@@ -1,4 +1,3 @@
-# Variáveis e Tipos de Dados com a linguagem C
 
 - O que são _variáveis_?
 - O que são _tipos de dados_ em programação?
