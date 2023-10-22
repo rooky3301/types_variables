@@ -17,8 +17,7 @@ maior flexibilidade ao desenvolvedor na hora de sua escolha.
 
 ### Tipos de variáveis
 
-- `char ou character` - Consiste em um tipo inteiro que recebe somente uma letra de caractere.
-- `int ou integer` - Consiste em armazenar um tipo inteiro numérico.
-- `float ou floating-point` - Consiste em armazenar um tipo numérico de ponto flutuante, ele pode ser inteiro ou variável.
-- `double` - Uma versão extendida do float, consiste em conseguir alcançar bytes maiores que o float na memória do computador.
-- `void ou vazio` - Tipo de variável que consiste em não ter um tipo definido, pode se utilizar qualquer caractere.
+- `char` - Consiste em um tipo que recebe somente um caractere que é representado entre aspas simples('').
+- `int` - Consiste em armazenar um tipo inteiro numérico.
+- `float` - Consiste em armazenar um tipo numérico de ponto flutuante, porém este tipo é de precisão simples.
+- `double` - Uma versão extendida do float, consiste em conseguir armazenar números com precisão dupla.
