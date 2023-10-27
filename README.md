@@ -20,7 +20,3 @@ maior flexibilidade ao desenvolvedor na hora de sua escolha.
 - `int` - Consiste em armazenar um tipo inteiro numérico.
 - `float` - Consiste em armazenar um tipo numérico de ponto flutuante, porém este tipo é de precisão simples.
 - `double` - Uma versão extendida do float, consiste em conseguir armazenar números com precisão dupla.
-
-----
-
-## Operadores
