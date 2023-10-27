@@ -1,3 +1,4 @@
+## Tipos de dados e variáveis com Linguagem C
 
 - O que são _variáveis_?
 - O que são _tipos de dados_ em programação?
@@ -13,11 +14,13 @@ maior flexibilidade ao desenvolvedor na hora de sua escolha.
 
 > A palavra tipar que uso no texto acima refere-se a declarar um tipo para variável e de acordo com o tipo, ela pode utilizar mais ou menos memória e aceitar somente números ou textos, ou os dois juntos, dependendo da sua linguagem de programação.
 
-----
-
 ### Tipos de variáveis
 
 - `char` - Consiste em um tipo que recebe somente um caractere que é representado entre aspas simples('').
 - `int` - Consiste em armazenar um tipo inteiro numérico.
 - `float` - Consiste em armazenar um tipo numérico de ponto flutuante, porém este tipo é de precisão simples.
 - `double` - Uma versão extendida do float, consiste em conseguir armazenar números com precisão dupla.
+
+----
+
+## Operadores
